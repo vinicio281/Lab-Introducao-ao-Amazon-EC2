@@ -38,5 +38,12 @@ No painel de navegação da esquerda, selecione Painel do EC2 para garantir que 
 Clique em Executar instância e selecione Executar instância.
 
 <img width="1891" height="1031" alt="image" src="https://github.com/user-attachments/assets/dd535471-9f2d-489e-93f7-2973027ddfb4" />
+<img width="1897" height="960" alt="image" src="https://github.com/user-attachments/assets/b6ab082c-b214-4fcf-8994-bb9483b0b8d1" />
+
+
+Etapa 1: Nomear sua instância do EC2
+Quando você nomear sua instância, a AWS criará um par de chave-valor. A chave desse par é Nome, e o valor é o nome que você inseriu para sua instância do EC2.
+
+No painel Name and tags (Nome e tags), na caixa de texto Name (Nome), digite Web Server.
 
 

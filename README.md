@@ -110,6 +110,43 @@ Neste laboratório, você não fará login na instância usando o acesso SSH, j�
 
 <img width="1918" height="482" alt="image" src="https://github.com/user-attachments/assets/932d18d3-3fcc-4344-a565-182bf70f73b0" />
 
+Etapa 6: Adicionar armazenamento
+O Amazon EC2 armazena dados em um disco virtual anexado à rede chamado Amazon Elastic Block Store (Amazon EBS).
+
+Você iniciará a instância do EC2 usando um volume de disco padrão de 8 GiB. Esse é seu volume-raiz (também conhecido como volume de inicialização).
+
+No painel Configure storage (Configurar armazenamento), mantenha a configuração padrão de armazenamento.
+
+<img width="1911" height="402" alt="image" src="https://github.com/user-attachments/assets/dc3b3757-7f44-460c-a2c4-6812925588e1" />
+
+Etapa 7: Configurar detalhes avançados
+Expanda o painel Advanced details (Detalhes avançados).
+
+Selecione o menu suspenso para Termination protection (Proteção contra encerramento) e, depois, selecione Enable (Habilitar).
+
+<img width="1917" height="91" alt="image" src="https://github.com/user-attachments/assets/1fe1d506-8c49-4be7-8748-b27feb671d31" />
+
+
+Ao iniciar uma instância no Amazon EC2, você tem a opção de passar dados do usuário para a instância. Esses comandos podem ser usados para executar tarefas de configuração automatizadas comuns, e podem até executar scripts após o início da instância.
+
+Copie os comandos a seguir e cole-os no campo User data (Dados do usuário).
+
+#!/bin/bash
+yum -y install httpd
+systemctl enable httpd
+systemctl start httpd
+echo '<html><h1>Hello From Your Web Server!</h1></html>' > /var/www/html/index.html
+O script fará o seguinte:
+
+Instalará um servidor web Apache (httpd).
+
+Configurará o servidor web para ser iniciado automaticamente na inicialização.
+
+Ativará o servidor web.
+
+Criará uma página da web simples.
+
+
 
 
 

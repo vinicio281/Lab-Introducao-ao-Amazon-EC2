@@ -141,6 +141,31 @@ Ativará o servidor web.
 
 Criará uma página da web simples.
 
+Etapa 8: Iniciar uma instância do EC2
+Agora que você configurou sua instância do EC2, é hora de iniciá-la.
+
+No painel direito, selecione Executar instância
+
+Selecione Visualizar todas as instâncias
+
+A instância aparece em um estado Pendente, o que significa que ela está sendo iniciada. Depois, o estado muda para Em execução, o que indica que a instância começou sua inicialização. Depois de um curto período, você poderá acessá-la.
+
+A instância recebe um nome DNS público, que você pode usar para contatar a instância pela Internet.
+
+Marque a caixa  ao lado do seu Web Server. A guia Details (Detalhes) exibe informações detalhadas sobre sua instância.
+
+ Para visualizar mais informações na guia Details (Detalhes), arraste o divisor da janela para cima.
+
+Analise as informações exibidas nas guias Details, Security (Detalhes, Segurança) e Networking (Rede).
+
+Aguarde até que a instância exiba:
+
+Observação: Atualize se necessário.
+
+Estado da instância:  Em execução
+
+Verificações de status:   2/2 verificações aprovadas
+
 
 
 

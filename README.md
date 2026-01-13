@@ -63,6 +63,9 @@ Localize o painel Selecione uma imagem da aplicação ou do sistema operacional 
 
 Em Imagem de máquina da Amazon (AMI), observe que a imagem Amazon Linux 2023* está selecionada por padrão. Mantenha essa configuração.
 
+<img width="1907" height="971" alt="image" src="https://github.com/user-attachments/assets/cbc35e2f-e44b-4550-8029-1d89335cc663" />
+
+
 
 
 

@@ -28,3 +28,12 @@ Terminar a instância do EC2
 Duração
 Este laboratório levará aproximadamente 45 minutos para ser concluído.
 
+Tarefa 1: Iniciar sua instância do EC2
+Nesta tarefa, você iniciará uma instância do Amazon EC2 com proteção contra encerramento. A proteção contra encerramento impede que você encerre acidentalmente uma instância do EC2. Você implantará sua instância com um script de dados do usuário que permitirá implantar um servidor web simples.
+
+No Console de Gerenciamento da AWS, no menu Serviços, selecione EC2.
+
+No painel de navegação da esquerda, selecione Painel do EC2 para garantir que você esteja na página do painel.
+
+Clique em Executar instância e selecione Executar instância.
+

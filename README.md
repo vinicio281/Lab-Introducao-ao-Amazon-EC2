@@ -131,12 +131,7 @@ Ao iniciar uma instância no Amazon EC2, você tem a opção de passar dados do 
 
 Copie os comandos a seguir e cole-os no campo User data (Dados do usuário).
 
-#!/bin/bash
-yum -y install httpd
-systemctl enable httpd
-systemctl start httpd
-echo '<html><h1>Hello From Your Web Server!</h1></html>' > /var/www/html/index.html
-O script fará o seguinte:
+<img width="1898" height="528" alt="image" src="https://github.com/user-attachments/assets/23589965-2204-4135-a938-5f353b90954f" />
 
 Instalará um servidor web Apache (httpd).
 

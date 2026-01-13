@@ -25,3 +25,6 @@ Testar a proteção contra encerramento
 
 Terminar a instância do EC2
 
+Duração
+Este laboratório levará aproximadamente 45 minutos para ser concluído.
+

@@ -46,4 +46,7 @@ Quando você nomear sua instância, a AWS criará um par de chave-valor. A chave
 
 No painel Name and tags (Nome e tags), na caixa de texto Name (Nome), digite Web Server.
 
+<img width="1902" height="976" alt="image" src="https://github.com/user-attachments/assets/005c173e-ac53-4e49-9626-fe6cb8fa2d50" />
+
+
 

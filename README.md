@@ -37,3 +37,6 @@ No painel de navegação da esquerda, selecione Painel do EC2 para garantir que 
 
 Clique em Executar instância e selecione Executar instância.
 
+<img width="1891" height="1031" alt="image" src="https://github.com/user-attachments/assets/dd535471-9f2d-489e-93f7-2973027ddfb4" />
+
+

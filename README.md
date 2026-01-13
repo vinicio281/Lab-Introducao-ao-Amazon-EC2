@@ -1,1 +1,1 @@
-# Lab-Introducao-ao-Amazon-EC2
+Documentação: Introdução ao Amazon EC2

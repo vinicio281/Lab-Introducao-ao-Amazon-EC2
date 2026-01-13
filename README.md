@@ -48,6 +48,21 @@ No painel Name and tags (Nome e tags), na caixa de texto Name (Nome), digite Web
 
 <img width="1907" height="356" alt="image" src="https://github.com/user-attachments/assets/af0fe77a-3103-411c-babc-fc608d206565" />
 
+Etapa 2: Selecionar uma imagem de máquina da Amazon (AMI)
+Uma AMI fornece as informações necessárias para iniciar uma instância, que é um servidor virtual na nuvem. Uma AMI inclui o seguinte:
+
+Um modelo para o volume-raiz da instância (por exemplo, um sistema operacional ou um servidor de aplicações com aplicações)
+
+Permissões de execução que controlam quais contas da AWS podem usar a AMI para iniciar instâncias
+
+Um mapeamento de dispositivos de blocos que especifica quais volumes devem ser anexados à instância quando ela for iniciada
+
+O menu Quick Start (Início rápido) contém as AMIs mais usadas. Você também pode criar sua própria AMI ou selecionar uma AMI no AWS Marketplace, um armazenamento on-line no qual você pode vender ou comprar software executado na AWS.
+
+Localize o painel Selecione uma imagem da aplicação ou do sistema operacional (Imagem de máquina da Amazon).
+
+Em Imagem de máquina da Amazon (AMI), observe que a imagem Amazon Linux 2023* está selecionada por padrão. Mantenha essa configuração.
+
 
 
 

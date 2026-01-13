@@ -106,6 +106,12 @@ Em Regras do grupo de segurança de entrada, selecione Remover.
 
 Neste laboratório, você não fará login na instância usando o acesso SSH, já que a remoção desse acesso reforçará a segurança da instância.
 
+<img width="1911" height="837" alt="image" src="https://github.com/user-attachments/assets/910f4cf6-c487-48c1-975f-523296a744b4" />
+
+<img width="1918" height="482" alt="image" src="https://github.com/user-attachments/assets/932d18d3-3fcc-4344-a565-182bf70f73b0" />
+
+
+
 
 
 

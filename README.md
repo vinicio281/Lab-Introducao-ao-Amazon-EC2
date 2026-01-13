@@ -331,6 +331,7 @@ Selecione Encerrar
  Parabéns! Você testou com êxito a proteção contra encerramento e terminou sua instância.
 
 Laboratório concluído 
+
 Escolha  End Lab (Encerrar laboratório) na parte superior desta página e, em seguida, selecione Yes (Sim) para confirmar que você deseja encerrar o laboratório.
 
 Um painel indica DELETE has been initiated... You may close this message box now. (EXCLUSÃO iniciada... Agora você pode fechar esta caixa de mensagem).

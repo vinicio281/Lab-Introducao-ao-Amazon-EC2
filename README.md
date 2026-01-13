@@ -65,6 +65,49 @@ Em Imagem de máquina da Amazon (AMI), observe que a imagem Amazon Linux 2023* e
 
 <img width="1907" height="971" alt="image" src="https://github.com/user-attachments/assets/cbc35e2f-e44b-4550-8029-1d89335cc663" />
 
+Etapa 3: Selecionar um tipo de instância
+O Amazon EC2 fornece uma ampla seleção de tipos de instância otimizados para se adequarem a diferentes casos de uso. Os tipos de instâncias consistem em várias combinações de CPU, memória, armazenamento e capacidade de redes, oferecendo flexibilidade de escolha da composição adequada de recursos para as suas aplicações. Cada tipo de instância inclui um ou mais tamanhos de instância para que você possa escalar seus recursos para os requisitos do workload de destino.
+
+Selecione uma instância t3.micro. Esse tipo de instância tem duas CPUs virtuais e 1 GiB de memória.
+
+No menu suspenso, selecione t3.micro.
+
+OBSERVAÇÃO: talvez você não possa usar outros tipos de instância neste laboratório.
+
+<img width="1915" height="318" alt="image" src="https://github.com/user-attachments/assets/7cc815c7-1b41-4902-9207-0a823d9ac184" />
+
+Etapa 4: Configurar um par de chaves
+O Amazon EC2 usa criptografia de chave pública para criptografar e descriptografar as informações de login. Para fazer login em sua instância, você deve criar um par de chaves, especificar o nome dele ao iniciar a instância e inserir a chave privada ao se conectar à instância.
+
+Neste laboratório, você não fará login em sua instância e, portanto, não precisará de um par de chaves.
+
+Em Key pair (login) (Nome do par de chaves [login]), selecione Proceed without a key pair (Not recommended) (Prosseguir sem um par de chaves [não recomendado]).
+
+<img width="1912" height="250" alt="image" src="https://github.com/user-attachments/assets/ae31886f-8935-41e7-b9e7-90f2c3b299a4" />
+
+Etapa 5: Definir as configurações de rede
+Você usará esse painel para definir as configurações de rede.
+
+A VPC indica em qual nuvem privada virtual (VPC) você deseja iniciar a instância. Você pode ter várias VPCs, como VPCs diferentes para desenvolvimento, teste e produção.
+
+No painel Configurações de rede, selecione Editar.
+
+Em VPC- required (VPC: obrigatório), selecione Lab VPC (VPC do laboratório).
+
+Ainda no painel Network settings (Configurações de rede), configure o grupo de segurança da seguinte forma:
+
+Nome do grupo de segurança: obrigatório: Web Server security group
+
+Descrição: Security group for my web server
+
+Um grupo de segurança atua como um firewall virtual que controla o tráfego para uma ou mais instâncias. Ao iniciar uma instância, você pode associar um ou mais grupos de segurança a ela. Você adiciona regras a cada grupo de segurança que permitem o tráfego de entrada ou de saída das instâncias correspondentes. É possível modificar as regras de um grupo de segurança a qualquer momento. As novas regras são aplicadas automaticamente a todas as instâncias associadas ao grupo de segurança.
+
+Em Regras do grupo de segurança de entrada, selecione Remover.
+
+Neste laboratório, você não fará login na instância usando o acesso SSH, já que a remoção desse acesso reforçará a segurança da instância.
+
+
+
 
 
 

@@ -2,14 +2,22 @@ Documentação: Introdução ao Amazon EC2
 
 Índice
 
-documentação-introdução-ao-amazon-ec2\n
+documentação-introdução-ao-amazon-ec2
+
 visão-geral
+
 tópicos-abordados
+
 tarefa-1-iniciar-sua-instância-do-ec2
+
 tarefa-2-monitorar-a-instância
+
 tarefa-3-atualizar-grupo-de-segurança-e-acessar-servidor-web
+
 tarefa-4-redimensionar-a-instância
+
 tarefa-5-testar-a-proteção-contra-encerramento
+
 laboratório-concluído
 
 

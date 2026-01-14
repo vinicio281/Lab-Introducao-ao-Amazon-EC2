@@ -1,6 +1,6 @@
 # Documentação: Introdução ao Amazon EC2
 
-# Índice
+## Índice
 
 - Documentação: Introdução ao Amazon EC2
 - Visão Geral
@@ -11,8 +11,6 @@
 - Tarefa 4: Redimensionar a instância
 - Tarefa 5: Testar a proteção contra encerramento
 - Laboratório Concluído
-
-
 
 # Visão geral:
 

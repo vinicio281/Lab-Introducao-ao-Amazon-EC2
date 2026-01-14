@@ -2,7 +2,7 @@ Documentação: Introdução ao Amazon EC2
 
 Índice
 
-documentação-introdução-ao-amazon-ec2
+documentação-introdução-ao-amazon-ec2\n
 visão-geral
 tópicos-abordados
 tarefa-1-iniciar-sua-instância-do-ec2

@@ -1,5 +1,18 @@
 Documentação: Introdução ao Amazon EC2
 
+Índice
+
+#documentação-introdução-ao-amazon-ec2
+#visão-geral
+#tópicos-abordados
+#tarefa-1-iniciar-sua-instância-do-ec2
+#tarefa-2-monitorar-a-instância
+#tarefa-3-atualizar-grupo-de-segurança-e-acessar-servidor-web
+#tarefa-4-redimensionar-a-instância
+#tarefa-5-testar-a-proteção-contra-encerramento
+#laboratório-concluído
+
+
 Visão geral:
 
 <img width="481" height="397" alt="image" src="https://github.com/user-attachments/assets/ecc431c7-d3ea-4907-aecc-6233c3a13bc0" />

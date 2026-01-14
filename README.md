@@ -1,24 +1,17 @@
 Documentação: Introdução ao Amazon EC2
 
-Índice
+# Índice
 
-documentação-introdução-ao-amazon-ec2
+- Documentação: Introdução ao Amazon EC2
+- Visão Geral
+- Tópicos Abordados
+- Tarefa 1: Iniciar sua instância do EC2
+- Tarefa 2: Monitorar a instância
+- Tarefa 3: Atualizar grupo de segurança e acessar servidor web
+- Tarefa 4: Redimensionar a instância
+- Tarefa 5: Testar a proteção contra encerramento
+- Laboratório Concluído
 
-visão-geral
-
-tópicos-abordados
-
-tarefa-1-iniciar-sua-instância-do-ec2
-
-tarefa-2-monitorar-a-instância
-
-tarefa-3-atualizar-grupo-de-segurança-e-acessar-servidor-web
-
-tarefa-4-redimensionar-a-instância
-
-tarefa-5-testar-a-proteção-contra-encerramento
-
-laboratório-concluído
 
 
 Visão geral:
